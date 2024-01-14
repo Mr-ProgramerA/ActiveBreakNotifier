@@ -22,6 +22,9 @@ The Break Reminder script is a simple PowerShell script designed to remind users
    - Run the script using the following command:
      ```.\BreakReminder.ps1```
 
+![step 1](https://github.com/Mr-ProgramerA/ActiveBreakNotifier/blob/main/using_images/stepOne.PNG?raw=true)
+![step 2](https://github.com/Mr-ProgramerA/ActiveBreakNotifier/blob/main/using_images/stepTwo.PNG?raw=true)
+
 3. **Interact with the GUI:**
    - Follow the on-screen prompts to choose from the available options.
    - Click "OK" to continue, "Snooze 5 min" to delay the reminder, or "Stop" to exit the script.
