@@ -30,6 +30,7 @@ The use of AI in the development process showcases a collaborative approach, com
 
 ![step 1](https://github.com/Mr-ProgramerA/ActiveBreakNotifier/blob/main/using_images/stepOne.PNG?raw=true)
 ![step 2](https://github.com/Mr-ProgramerA/ActiveBreakNotifier/blob/main/using_images/stepTwo.PNG?raw=true)
+   - Note: Do not close the PowerShell window; minimize it to the taskbar or use the integrated terminal if you're using a code editor like Visual Studio Code.
 
 3. **Interact with the GUI:**
    - Follow the on-screen prompts to choose from the available options.
