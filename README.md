@@ -4,6 +4,12 @@
 
 The Break Reminder script is a simple PowerShell script designed to remind users to take breaks, stay hydrated, and maintain a healthy routine during work or study sessions. The script displays a graphical user interface (GUI) prompt with options to continue with the task, snooze for 5 minutes, or stop the reminder.
 
+## AI Assistance
+
+This Break Reminder script was developed with the assistance of artificial intelligence (ChatGPT). The underlying logic and structure of the script were created using AI technologies, contributing to the efficiency and functionality of the final product.
+
+The use of AI in the development process showcases a collaborative approach, combining human creativity with advanced computational capabilities to enhance the user experience.
+
 ## Features
 
 - **Reminder Prompt:** Displays a friendly reminder to take a break and drink water.
